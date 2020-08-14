@@ -2,12 +2,12 @@
 class F2f < Formula
   desc "Use build-in macOS security util to manage secrets in keychain storage."
   homepage "https://github.com/AlekseevAV/2f"
-  version "0.1.1"
+  version "0.2.0"
   bottle :unneeded
 
   if OS.mac?
-    url "https://github.com/AlekseevAV/2f/releases/download/v0.1.1/2f_0.1.1_Darwin_x86_64.tar.gz"
-    sha256 "878ad54ca0a020f904f4c62de45ee160f7d1ea8825c8afa30c6a694c4e1f84fb"
+    url "https://github.com/AlekseevAV/2f/releases/download/v0.2.0/2f_0.2.0_Darwin_x86_64.tar.gz"
+    sha256 "153e5466a1a656f009cf45949b25e3838f0cc2a0441d762cfbb171789914e4de"
   elsif OS.linux?
   end
   
