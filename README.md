@@ -1,3 +1,3 @@
-# homebrew-f2f
+# homebrew-tap
 
-homebrew formula for https://github.com/AlekseevAV/2f
+Homebrew taps
